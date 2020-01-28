@@ -1,5 +1,4 @@
 # ip4ai
-GitHub tutorial exercise to learn branches, pull requests and commits.
 
 <p>
 <b>I am building a bot with AI, neural networks and deep learning on Appian.</b></br></br>
